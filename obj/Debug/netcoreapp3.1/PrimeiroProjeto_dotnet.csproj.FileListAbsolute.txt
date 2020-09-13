@@ -1,0 +1,13 @@
+C:\Users\joemy\primeiroProjeto_dotnet\bin\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.exe
+C:\Users\joemy\primeiroProjeto_dotnet\bin\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.deps.json
+C:\Users\joemy\primeiroProjeto_dotnet\bin\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.runtimeconfig.json
+C:\Users\joemy\primeiroProjeto_dotnet\bin\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.runtimeconfig.dev.json
+C:\Users\joemy\primeiroProjeto_dotnet\bin\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.dll
+C:\Users\joemy\primeiroProjeto_dotnet\bin\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.pdb
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.csprojAssemblyReference.cache
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.AssemblyInfoInputs.cache
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.AssemblyInfo.cs
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.dll
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.pdb
+C:\Users\joemy\primeiroProjeto_dotnet\obj\Debug\netcoreapp3.1\PrimeiroProjeto_dotnet.genruntimeconfig.cache
